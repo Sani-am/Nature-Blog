@@ -1,0 +1,71 @@
+body {
+    background-color: linear-gradient(mintcream, aqua, mediumaquamarine, turquoise, whitesmoke);
+    border: dashed 1px black;
+    text-align: center;
+}
+
+Img-section {
+    border-bottom: solid 1.5px black;
+
+}
+
+Img-section2 {
+    border-bottom: solid 1.5px black;
+
+}
+
+Img-section3 {
+    border-bottom: solid 1.5px black;
+
+}
+
+Img-section4 {
+    border-bottom: solid 1.5px black;
+
+}
+
+PurpFlower {
+
+    border-radius: 50px;
+    width: 100px;
+    height: 150px;
+}
+
+.imgani {
+    height: 100px;
+    width: 100px;
+    border: black 2px outset;
+
+
+}
+
+
+
+
+
+
+#TITLE {
+    color: black;
+    border: black 3px inset;
+    background-color: azure;
+
+}
+
+h1 {
+
+    font-size: 25px;
+
+}
+
+p {
+    font-size: 15px;
+
+
+
+}
+
+.line {
+    height: 2px border:black 5px solid;
+    width: 15pxl;
+
+}
